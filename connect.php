@@ -17,5 +17,5 @@ try {
 
 
 } catch (PDOException $e) {
-    echo ' sdfsdfsd' . $e->getMessage();
+    echo ' sdfsdfxcxcxczsd' . $e->getMessage();
 }
